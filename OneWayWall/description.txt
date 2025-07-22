@@ -1,2 +1,4 @@
 One Way Wall Block is a mod that hopes to add the One Way Wall from Nintendo's Super Mario Maker. Im 15, not in school, and ive never really done any coding before so dont expect much
 Used Too Much Ai in this (Thx Github Copilot)
+Open Source at Github
+https://github.com/cxsirr/TerrariaMods
