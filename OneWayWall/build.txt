@@ -1,1 +1,3 @@
-
+displayName = One Way Wall Block
+author = cxsir & Github Copilot
+version = a0.1
